@@ -5,5 +5,5 @@
 - *Cryptography and System Security (CSS)*
 - *Data Warehousing and Mining (DWM)*
 - *Department Level Elective: Machine Learning (ML)*
-- *Software Enginerring (SE)*
+- *Software Engineering (SE)*
 - *System Programming and Compiler Construction (SPCC)*
